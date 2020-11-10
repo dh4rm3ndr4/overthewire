@@ -11,5 +11,5 @@ Overthewire war game walkthrough
   <h3>3. <a href="https://overthewire.org/wargames/leviathan/" >leviathan</a></h3>
   <h3> many more .....<h3>
   
-  <h2> Recommandation :</h2>
-  <h4> I personally recommand every beginner to start from <i>"bandit"</i> challenge and follow the same order as given in offical site. </h4>
+  <h2> Recommendation :</h2>
+  <h4> I personally recommend every beginner to start from <i>"bandit"</i> challenge and follow the same order as given in offical site. </h4>
